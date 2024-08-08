@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="kankyou" table="x_1443635_shinsei_system_code" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>kankyou</element>
+            <name>x_1443635_shinsei_system_code</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 02:47:23</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>kankyou</sys_name>
+            <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+            <sys_update_name>sys_choice_x_1443635_shinsei_system_code_kankyou</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 02:47:23</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>kankyou</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>本番</label>
+            <language>en</language>
+            <name>x_1443635_shinsei_system_code</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 02:48:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 02:48:36</sys_updated_on>
+            <value>honban</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>kankyou</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>開発</label>
+            <language>en</language>
+            <name>x_1443635_shinsei_system_code</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 02:47:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 02:47:38</sys_updated_on>
+            <value>kaihatu</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

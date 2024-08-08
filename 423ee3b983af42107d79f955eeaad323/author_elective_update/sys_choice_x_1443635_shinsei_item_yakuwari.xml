@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="yakuwari" table="x_1443635_shinsei_item" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>yakuwari</element>
+            <name>x_1443635_shinsei_item</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 01:54:25</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>yakuwari</sys_name>
+            <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+            <sys_update_name>sys_choice_x_1443635_shinsei_item_yakuwari</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 01:54:25</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>yakuwari</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>業務「SERVICE」</label>
+            <language>en</language>
+            <name>x_1443635_shinsei_item</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 01:54:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 01:54:56</sys_updated_on>
+            <value>service</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>yakuwari</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>運用「OPR」</label>
+            <language>en</language>
+            <name>x_1443635_shinsei_item</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 01:55:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 01:58:07</sys_updated_on>
+            <value>opr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>yakuwari</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>バックアップ「BACKUP」</label>
+            <language>en</language>
+            <name>x_1443635_shinsei_item</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 01:58:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 01:58:40</sys_updated_on>
+            <value>backup</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>yakuwari</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>その他「OTHER」</label>
+            <language>en</language>
+            <name>x_1443635_shinsei_item</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-24 01:58:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-24 01:59:02</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

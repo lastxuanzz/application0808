@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="環境">91fe02a283e342507d79f955eeaad334</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 09:04:49</sys_created_on>
+        <sys_id>10a01e6e83e342507d79f955eeaad383</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>本番</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>question_choice_10a01e6e83e342507d79f955eeaad383</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-30 01:35:18</sys_updated_on>
+        <text>本番</text>
+        <value>honban</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=10a01e6e83e342507d79f955eeaad383"/>
+</record_update>

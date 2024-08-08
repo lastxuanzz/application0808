@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Default access control on x_1443635_shinsei_item</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1443635_shinsei_item</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 08:30:24</sys_created_on>
+        <sys_id>e6b57b31836382107d79f955eeaad307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1443635_shinsei_item</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sys_security_acl_e6b57b31836382107d79f955eeaad307</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 08:30:24</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</application>
+        <file_path/>
+        <instance_id>afd2325e1b4d4694c82acb7b234bcb79</instance_id>
+        <instance_name>dev248417</instance_name>
+        <name>sys_security_acl_e6b57b31836382107d79f955eeaad307</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition/><description>Default access control on x_1443635_shinsei_item</description><local_or_existing>Local</local_or_existing><name>x_1443635_shinsei_item</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-23 08:30:24</sys_created_on><sys_id>e6b57b31836382107d79f955eeaad307</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1443635_shinsei_item</sys_name><sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package><sys_policy/><sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope><sys_update_name>sys_security_acl_e6b57b31836382107d79f955eeaad307</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-23 08:30:24</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1584215106</payload_hash>
+        <record_name>x_1443635_shinsei_item</record_name>
+        <reverted_from/>
+        <source>0e3ee3b983af42107d79f955eeaad326</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-23 08:30:24</sys_created_on>
+        <sys_id>a6b57b31836382107d79f955eeaad30b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190deb6906a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-23 08:30:24</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>aab57b31f463821000d08eb550913b0a</update_guid>
+        <update_guid_history>aab57b31f463821000d08eb550913b0a:-1584215106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 01:09:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>8ad8439dc39947608ebb3accc33d0100</sys_id>
+        <sys_metadata>e6b57b31836382107d79f955eeaad307</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1443635_shinsei_item</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_parent display_value="">eab57b31836382107d79f955eeaad324</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_scope_delete display_value="">252e05228bb847f29df206ac9052cb49</sys_scope_delete>
+        <sys_update_name>sys_security_acl_e6b57b31836382107d79f955eeaad307</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_e6b57b31836382107d79f955eeaad307">a6b57b31836382107d79f955eeaad30b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 01:09:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

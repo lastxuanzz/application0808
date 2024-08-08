@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="New Tab 1">0655bc2e83a3ce107d79f955eeaad3c3</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2024-07-24 20:12:29">81204dee83a7ce107d79f955eeaad37f</portal_widget>
+        <posx>1</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 03:12:29</sys_created_on>
+        <sys_id>0d204dee83a7ce107d79f955eeaad380</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>0655bc2e83a3ce107d79f955eeaad3c3</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_0d204dee83a7ce107d79f955eeaad380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 07:47:31</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>

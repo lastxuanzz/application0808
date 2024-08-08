@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {  /* widget controller */  var c = this;};]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>dashboard_test</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>Dashboard test</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 06:27:40</sys_created_on>
+        <sys_id>7d6672b6832b42107d79f955eeaad31c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Dashboard test</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sp_widget_7d6672b6832b42107d79f955eeaad31c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 08:11:21</sys_updated_on>
+        <template><![CDATA[<div>
+<!-- your widget template -->
+  
+  <iframe style="overflow: auto; height: 750px; width: 100%;"
+        src="/$pa_dashboard.do?sysparm_dashboard=daf58a3e836702107d79f955eeaad3ca&sysparm_tab=ef060e3e836702107d79f955eeaad38c&sysparm_cancelable=true&sysparm_editable=true&sysparm_active_panel=quickLayoutSideContent">
+</iframe>
+</div>]]></template>
+    </sp_widget>
+</record_update>

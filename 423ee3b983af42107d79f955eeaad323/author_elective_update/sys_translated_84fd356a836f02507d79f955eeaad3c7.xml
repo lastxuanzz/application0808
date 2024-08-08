@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="DELETE">
+        <element>name</element>
+        <id/>
+        <label>New Tab 2</label>
+        <language>en</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 07:42:29</sys_created_on>
+        <sys_id>84fd356a836f02507d79f955eeaad3c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sys_translated_84fd356a836f02507d79f955eeaad3c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 07:42:29</sys_updated_on>
+        <value>4cfd716a836f02507d79f955eeaad373New Tab 2</value>
+    </sys_translated>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</application>
+        <file_path/>
+        <instance_id>afd2325e1b4d4694c82acb7b234bcb79</instance_id>
+        <instance_name>dev248417</instance_name>
+        <name>sys_translated_84fd356a836f02507d79f955eeaad3c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated"><sys_translated action="INSERT_OR_UPDATE"><element>name</element><id/><label>New Tab 2</label><language>en</language><name>pa_tabs</name><sys_class_name>sys_translated</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-25 07:42:29</sys_created_on><sys_id>84fd356a836f02507d79f955eeaad3c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 2</sys_name><sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package><sys_policy/><sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope><sys_update_name>sys_translated_84fd356a836f02507d79f955eeaad3c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-25 07:42:29</sys_updated_on><value>4cfd716a836f02507d79f955eeaad373New Tab 2</value></sys_translated></record_update>]]></payload>
+        <payload_hash>-973187008</payload_hash>
+        <record_name>New Tab 2</record_name>
+        <reverted_from/>
+        <source>0e3ee3b983af42107d79f955eeaad326</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 07:42:29</sys_created_on>
+        <sys_id>ccfd356a836f02507d79f955eeaad3c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e8d7690d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 07:42:29</sys_updated_on>
+        <type>Translated Name / Field</type>
+        <update_guid>80fd356ab86f0250d14914eb62c1efc9</update_guid>
+        <update_guid_history>80fd356ab86f0250d14914eb62c1efc9:-973187008</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 07:42:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_translated">sys_translated</sys_db_object>
+        <sys_id>4c7588f65fb648d0a996af16cc4b4409</sys_id>
+        <sys_metadata>84fd356a836f02507d79f955eeaad3c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_scope_delete display_value="">252e05228bb847f29df206ac9052cb49</sys_scope_delete>
+        <sys_update_name>sys_translated_84fd356a836f02507d79f955eeaad3c7</sys_update_name>
+        <sys_update_version display_value="sys_translated_84fd356a836f02507d79f955eeaad3c7">ccfd356a836f02507d79f955eeaad3c9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 07:42:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
