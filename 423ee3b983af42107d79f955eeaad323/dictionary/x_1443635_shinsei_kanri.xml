@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="calendar_elements=mentenancemei;kankyou;state" db_object_id="6fb3dea2836742507d79f955eeaad3f6" label="システムコメンテナンス管理テーブル" max_length="40" name="x_1443635_shinsei_kanri" type="collection">
+        <element choice="3" label="環境" max_length="40" name="kankyou" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="本番" sequence="2" value="honban"/>
+                <element inactive_on_update="false" label="開発" sequence="1" value="kaihatsu"/>
+            </choice>
+        </element>
+        <element label="メンテナンス開始日時" max_length="40" name="u_my_start_date" type="glide_date_time"/>
+        <element label="メンテナンス終了日時" max_length="40" name="u_my_end_date" type="glide_date_time"/>
+        <element choice="1" label="状況" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="対応中" sequence="2" value="taiounaka"/>
+                <element inactive_on_update="false" label="未着手" sequence="1" value="michakushu"/>
+                <element inactive_on_update="false" label="完了" sequence="3" value="kanryou"/>
+            </choice>
+        </element>
+        <element label="メンテナンス名" max_length="40" name="mentenancemei" type="string"/>
+        <element choice="3" label="システムコード" max_length="40" name="system_code" reference="x_1443635_shinsei_system_code" type="reference">
+            <choice/>
+        </element>
+        <element label="メンテナンス内容" max_length="40" name="mentenancenaiyou" type="string"/>
+    </element>
+</database>

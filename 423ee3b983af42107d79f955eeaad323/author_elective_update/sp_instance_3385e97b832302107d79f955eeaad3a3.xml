@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">70e6fde283ab02507d79f955eeaad332</sp_column>
+        <sp_widget display_value="Report_test">74e6f5e283ab02507d79f955eeaad35a</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-29 03:08:23</sys_created_on>
+        <sys_id>3385e97b832302107d79f955eeaad3a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sp_instance_3385e97b832302107d79f955eeaad3a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-29 03:08:23</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=3385e97b832302107d79f955eeaad3a3"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</application>
+        <file_path/>
+        <instance_id>afd2325e1b4d4694c82acb7b234bcb79</instance_id>
+        <instance_name>dev248417</instance_name>
+        <name>sp_instance_3385e97b832302107d79f955eeaad3a3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">70e6fde283ab02507d79f955eeaad332</sp_column><sp_widget display_value="Report_test">74e6f5e283ab02507d79f955eeaad35a</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-29 03:08:23</sys_created_on><sys_id>3385e97b832302107d79f955eeaad3a3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package><sys_policy/><sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope><sys_update_name>sp_instance_3385e97b832302107d79f955eeaad3a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-29 03:08:23</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=3385e97b832302107d79f955eeaad3a3"/></record_update>]]></payload>
+        <payload_hash>-1413268003</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0e3ee3b983af42107d79f955eeaad326</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-29 03:08:23</sys_created_on>
+        <sys_id>ff85e97b832302107d79f955eeaad3a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190fc75e69f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-29 03:08:23</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>f385e97b9c23021064ea2f6c98468ea5</update_guid>
+        <update_guid_history>f385e97b9c23021064ea2f6c98468ea5:-1413268003</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">899565bf832302107d79f955eeaad3a7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-29 03:08:28</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0ae8224b7f2942d0811536d5986214e1</sys_id>
+        <sys_metadata>3385e97b832302107d79f955eeaad3a3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_scope_delete display_value="">252e05228bb847f29df206ac9052cb49</sys_scope_delete>
+        <sys_update_name>sp_instance_3385e97b832302107d79f955eeaad3a3</sys_update_name>
+        <sys_update_version display_value="sp_instance_3385e97b832302107d79f955eeaad3a3">ff85e97b832302107d79f955eeaad3a5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-29 03:08:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[var params = {
+    sysparm_table: "x_1443635_shinsei_kanri",
+    sysparm_type: "calendar",
+    sysparm_cal_field: "mentenancekaishi",
+    //sysparm_trend_field: "mentenancekaishi",
+    sysparm_query: "system_code=bbb"
+};
+var div = $j("#report_stuff");
+embedReportByParams(div, params);]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_1443635_shinsei_test0729.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+     <g:inline template="reporting_includes.xml" />
+     <div id="report_stuff" />
+</j:jelly>]]></html>
+        <name>test0729</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-29 03:23:09</sys_created_on>
+        <sys_id>274865fb836302107d79f955eeaad396</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>test0729</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sys_ui_page_274865fb836302107d79f955eeaad396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-29 05:55:27</sys_updated_on>
+    </sys_ui_page>
+</record_update>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p style="text-align: right;"><a href="/$pa_dashboard.do?sysparm_dashboard&#61;ce100a2e836f02507d79f955eeaad32e&amp;sysparm_tab&#61;a330ca2e836f02507d79f955eeaad3a5&amp;sysparm_cancelable&#61;true&amp;sysparm_editable&#61;false&amp;sysparm_active_panel&#61;false" target="_blank" rel="noopener noreferrer nofollow">asd</a></p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <make_item_non_conversational>false</make_item_non_conversational>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>ネットワーク申請</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_save_as_draft>false</no_save_as_draft>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=60182f0a836bc6107d79f955eeaad3f5&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method>submit</request_method>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>ネットワーク申請用　テスト</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 02:10:45</sys_created_on>
+        <sys_id>60182f0a836bc6107d79f955eeaad3f5</sys_id>
+        <sys_mod_count>52</sys_mod_count>
+        <sys_name>ネットワーク申請</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sc_cat_item_60182f0a836bc6107d79f955eeaad3f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 08:45:10</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>52</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=60182f0a836bc6107d79f955eeaad3f5"/>
+    <fx_price action="DELETE" query="id=60182f0a836bc6107d79f955eeaad3f5"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>60182f0a836bc6107d79f955eeaad3f5</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 02:10:45</sys_created_on>
+        <sys_id>cf68a30e836bc6107d79f955eeaad38f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 02:10:45</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>60182f0a836bc6107d79f955eeaad3f5</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 02:10:45</sys_created_on>
+        <sys_id>8768a30e836bc6107d79f955eeaad391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 02:10:45</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</application>
+        <file_path/>
+        <instance_id>afd2325e1b4d4694c82acb7b234bcb79</instance_id>
+        <instance_name>dev248417</instance_name>
+        <name>sc_cat_item_60182f0a836bc6107d79f955eeaad3f5</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item"&gt;&lt;sc_cat_item action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;category/&gt;&lt;checked_out&gt;false&lt;/checked_out&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;p style="text-align: right;"&gt;&lt;a href="/$pa_dashboard.do?sysparm_dashboard&amp;#61;ce100a2e836f02507d79f955eeaad32e&amp;amp;sysparm_tab&amp;#61;a330ca2e836f02507d79f955eeaad3a5&amp;amp;sysparm_cancelable&amp;#61;true&amp;amp;sysparm_editable&amp;#61;false&amp;amp;sysparm_active_panel&amp;#61;false" target="_blank" rel="noopener noreferrer nofollow"&gt;asd&lt;/a&gt;&lt;/p&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;make_item_non_conversational&gt;false&lt;/make_item_non_conversational&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;ネットワーク申請&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;true&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;true&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;true&lt;/no_quantity_v2&gt;&lt;no_save_as_draft&gt;false&lt;/no_save_as_draft&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=60182f0a836bc6107d79f955eeaad3f5&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;recurring_price&gt;0&lt;/recurring_price&gt;&lt;request_method&gt;submit&lt;/request_method&gt;&lt;roles/&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;short_description&gt;ネットワーク申請用　テスト&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state&gt;published&lt;/state&gt;&lt;sys_class_name&gt;sc_cat_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-24 02:10:45&lt;/sys_created_on&gt;&lt;sys_id&gt;60182f0a836bc6107d79f955eeaad3f5&lt;/sys_id&gt;&lt;sys_mod_count&gt;52&lt;/sys_mod_count&gt;&lt;sys_name&gt;ネットワーク申請&lt;/sys_name&gt;&lt;sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei"&gt;423ee3b983af42107d79f955eeaad323&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="サービスカタログ申請画面イメージ"&gt;423ee3b983af42107d79f955eeaad323&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_60182f0a836bc6107d79f955eeaad3f5&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-25 08:45:10&lt;/sys_updated_on&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;52&lt;/version&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=60182f0a836bc6107d79f955eeaad3f5"/&gt;&lt;fx_price action="delete_multiple" query="id=60182f0a836bc6107d79f955eeaad3f5"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;60182f0a836bc6107d79f955eeaad3f5&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-24 02:10:45&lt;/sys_created_on&gt;&lt;sys_id&gt;cf68a30e836bc6107d79f955eeaad38f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-24 02:10:45&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;recurring_price&lt;/field&gt;&lt;id&gt;60182f0a836bc6107d79f955eeaad3f5&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-24 02:10:45&lt;/sys_created_on&gt;&lt;sys_id&gt;8768a30e836bc6107d79f955eeaad391&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-24 02:10:45&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1908963871</payload_hash>
+        <record_name>ネットワーク申請</record_name>
+        <reverted_from/>
+        <source>0e3ee3b983af42107d79f955eeaad326</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 08:45:11</sys_created_on>
+        <sys_id>2a4c06aa836342507d79f955eeaad36c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e910cf070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 08:45:11</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>ee4c06aabf63425094e34e8630ce616b</update_guid>
+        <update_guid_history>ee4c06aabf63425094e34e8630ce616b:-1908963871,d6ba4ee60e634250b7e940dc23dfc78f:1262777790,a65a8a2675634250ed67f92e5ba8af5f:1930339436,f4780626dd634250579c0b964ac6e399:-1382894296,b556cee2842342504b0a77c9a9d5d14f:-1660639322,9716c6ee8def025070c8bd905d53ca77:-1340081658,a96aac664eaf8e10323530dfa4c16267:2065550174,614a6466d5af8e1067a8a3f80b2d544c:-2018676036,8d3a20ae7a6f8e10e4e6058a1074d879:-1757207332,1b1a64e24caf8e107c816773e7c7094d:-1595663809,e60a68a202af8e104b7ef292795224f9:-1891052405,2be964eaf26f8e10fdf13f7c60a8e42d:-1123454019,eb1564621a6f8e105849948e92021a3c:-1418842615,5582e46651eb8e10c4efdc9401e37626:-519502221,08d1e0667beb8e101802e7a2a3403c2f:1864086322,5ae8a252aeefca102149427f3151d0d3:-47292431,ddd822523befca10fd1b06760bdb5301:-1958671184,cab8eede5cafca10d609c1d9ac572057:424917359,d0f22eda07ebca104a410c64b771fe43:-1486461394,cdd1e25a69ebca1041c186a48ee904f9:897127149,0521261a81ebca10c69f599c9b71baf5:-1014251604,daa7811a0aeb4a102b59400dd316dc89:1369336939,5287895ac3eb4a10150cab706b5e0290:-542041814,09364dd60ceb4a1089f3c2756bfdd410:357298580,5bcc60d6f1a34a106d9debe8de79bf95:-1554080173,f58cec569ca34a10eecc0f38aa142058:493721420,14da2c5622634a10c71829a3c7b9c033:-1189338387,e29aa01689634a10896555ba4c170e77:1194250156,5d15e49e17af0a104915809a81c0f0a6:-717128597,9bd32c9200af0a104a8873949a41614e:1666459946,b8f1e0de096f0a10ff1f67d160cd19b8:-244918807,dfc120dec86f0a1054ea09d924f2061c:2138669736,b001ec1e186f0a10c3d545db6c87bfc7:227290983,c35fd4da1a6f0a103955c392dfaac8ad:1126631377,f44fd0da476f0a104e5ef372184aac4a:-784747376,2edb1856ec6f0a10f923b1f3f5026648:1598841167,b3ab90561b6f0a10bc5b12e44044372c:-312537586,a81b5452a86f0a103cef177289471a7e:2071050957,0dda14de5e2f0a10e40d7971a5134902:159672204,6e4ad89af92f0a100efbba7f01cad102:-1751706549,3e17b7c64eefc6104e4ec69f1cb94e9b:631881994,7325734656afc610a1499a1b9d4c8fd4:-1279496759,3f2573465cafc6102876106fa0aa1ecb:1104091784,cfa33fc66c6fc610e1cad17d881e0879:-2121614496,64a3fbc65d6fc61022a12da3cb4a4dbf:261974047,a7833f86076fc6104bdc70fbe1e633b5:-1649404706,74227b46a06fc610d95b5b5ea8107b63:734183837,eac13f4e2e2fc61000a2aa866176d6e8:-1177194916,4ac13f82b86fc610bf3649f15417bcca:1206393627,71a1b7ced52fc6101bbb2e347681a4fc:-704985126,c1cbefc2f5abc610edbb125327eaa638:1678603417,4f68a30e686bc6104ac77476075559db:-338567130,4b68a30e1d6bc61055c89be3671028d4:1873821328</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ネットワーク申請">ea4c06aa836342507d79f955eeaad36f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 08:45:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>634c7c535a9943d8b938c5d43ea73c40</sys_id>
+        <sys_metadata>60182f0a836bc6107d79f955eeaad3f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ネットワーク申請</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_scope_delete display_value="">252e05228bb847f29df206ac9052cb49</sys_scope_delete>
+        <sys_update_name>sc_cat_item_60182f0a836bc6107d79f955eeaad3f5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_60182f0a836bc6107d79f955eeaad3f5">2a4c06aa836342507d79f955eeaad36c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 08:45:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="New Tab 1">0655bc2e83a3ce107d79f955eeaad3c3</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2024-07-24 19:50:37">302bfca28327ce107d79f955eeaad36d</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 02:50:37</sys_created_on>
+        <sys_id>bc2bfca28327ce107d79f955eeaad372</sys_id>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name>0655bc2e83a3ce107d79f955eeaad3c3</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_bc2bfca28327ce107d79f955eeaad372</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 03:08:26</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</application>
+        <file_path/>
+        <instance_id>afd2325e1b4d4694c82acb7b234bcb79</instance_id>
+        <instance_name>dev248417</instance_name>
+        <name>sys_grid_canvas_pane_bc2bfca28327ce107d79f955eeaad372</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="New Tab 1">0655bc2e83a3ce107d79f955eeaad3c3</grid_canvas><height>14</height><portal_widget display_value="Created 2024-07-24 19:50:37">302bfca28327ce107d79f955eeaad36d</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-25 02:50:37</sys_created_on><sys_id>bc2bfca28327ce107d79f955eeaad372</sys_id><sys_mod_count>24</sys_mod_count><sys_name>0655bc2e83a3ce107d79f955eeaad3c3</sys_name><sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package><sys_policy/><sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope><sys_update_name>sys_grid_canvas_pane_bc2bfca28327ce107d79f955eeaad372</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-25 03:08:26</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-953341527</payload_hash>
+        <record_name>0655bc2e83a3ce107d79f955eeaad3c3</record_name>
+        <reverted_from/>
+        <source>0e3ee3b983af42107d79f955eeaad326</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 03:08:27</sys_created_on>
+        <sys_id>f93f70a683a7ce107d79f955eeaad346</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e7dc84570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 03:08:27</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>b13f70a622a7ce1085b18a9471937b46</update_guid>
+        <update_guid_history>b13f70a622a7ce1085b18a9471937b46:-953341527,1b5cfc2af067ce1010d0aa0b78055c69:-1035805784,cf5cbc2ab567ce106f45d439623beda3:-1664886105,3a5c782a8367ce1010f33e1b3296aabd:-1035805784,ee5c306a7367ce1083da2e410686f478:1344455529,d25cb42a2867ce1091904f62505113e3:-1664886105,825cb82a0067ce1060ff8f9bcc09a908:-2081529309,795cfc2a8167ce109cf02b59cbc0504a:590320580,bd5cfc2a7867ce10465db30ea021baed:-2081529309,a95cbc2ab267ce10881a080204f6e0b6:-1035805784,9d5cf42a6567ce106e326e058cd79c07:1344455529,015cbc2a7e67ce1062f7f5e429be24b3:-1035805784,345cf42ad767ce1003247fdb08976e04:-1664886105,4f3b342659e3ce10b16303df68543afd:-735069172,473bb4e66267ce108ab7df8f0380f395:-439026387,4b3bf0e65b67ce10460eeca7f8dee6cc:1778947587,8f3b34e6a667ce10ae5985474f94772b:2074990372,763bbc66c967ce10d51edede0d2c9fff:-1923934139,f63b7ce2b6e3ce106593a8f26ab2abb3:-1627891354,b23bf0e61a67ce104f453cc034075df6:-1331848569,ea3bb4e66267ce10912b392ec57c7e63:-1035805784,463b34e66767ce10e6f902fa3a098305:-739762999,f93b74e6ea67ce10c08a47f25d8a319b:-443720214,a93bf4e27d67ce10c9f8e0df7d9c09b0:-147677429,342bfca2ec27ce104331a4a08d833474:148365356</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 03:08:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>0a8024a84d2145d6904f8ba7a493af31</sys_id>
+        <sys_metadata>bc2bfca28327ce107d79f955eeaad372</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0655bc2e83a3ce107d79f955eeaad3c3</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_scope_delete display_value="">252e05228bb847f29df206ac9052cb49</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_bc2bfca28327ce107d79f955eeaad372</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_bc2bfca28327ce107d79f955eeaad372">f93f70a683a7ce107d79f955eeaad346</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 03:08:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="90dee46e8323ce107d79f955eeaad3ae" label="Master" max_length="40" name="x_1443635_shinsei_master" type="collection">
+        <element label="Calendar end date span" max_length="40" name="u_last_date_u_my_end_date" type="calendar_date_time"/>
+        <element label="略称" max_length="40" name="short_discription" type="string"/>
+        <element label="ending time" max_length="40" name="ending_time" type="glide_date"/>
+        <element label="システムコード" max_length="40" name="system_code" type="string"/>
+        <element choice="1" label="環境" max_length="40" name="kankyou" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="開発" sequence="0" value="kaihatu"/>
+                <element inactive_on_update="false" label="本番" sequence="1" value="honban"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Calendar start date span" max_length="40" name="u_first_date_u_my_start_date" type="calendar_date_time"/>
+        <element label="説明" max_length="40" name="discription" type="string"/>
+        <element label="G6稼働" max_length="40" name="g6" type="boolean"/>
+        <element label="拠点" max_length="40" name="kyoten" type="string"/>
+    </element>
+</database>

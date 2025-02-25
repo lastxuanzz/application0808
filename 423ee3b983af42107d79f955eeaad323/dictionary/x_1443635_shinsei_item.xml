@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="606a97ca83e3c6107d79f955eeaad30f" label="画面項目" max_length="40" name="x_1443635_shinsei_item" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element choice="1" label="拠点" max_length="40" name="kyoten" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="第2DC" sequence="2" value="dainidc"/>
+                <element inactive_on_update="false" label="第3DC" sequence="3" value="daisandc"/>
+                <element inactive_on_update="false" label="第1DC" sequence="1" value="daiichidc"/>
+            </choice>
+        </element>
+        <element label="備考" max_length="1000" name="bikou" type="string"/>
+        <element choice="1" label="ゾーン" max_length="40" name="zone" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="内部「IN」" sequence="0" value="in"/>
+                <element inactive_on_update="false" label="対OA面DMZ「OADMZ」" sequence="3" value="oadmz"/>
+                <element inactive_on_update="false" label="対顧客面DMZ「CRIDMZ」" sequence="2" value="cridmz"/>
+                <element inactive_on_update="false" label="DMZ「DMZ」" sequence="1" value="dmz"/>
+            </choice>
+        </element>
+        <element choice="1" label="役割" max_length="40" name="yakuwari" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="運用「OPR」" sequence="2" value="opr"/>
+                <element inactive_on_update="false" label="その他「OTHER」" sequence="4" value="other"/>
+                <element inactive_on_update="false" label="バックアップ「BACKUP」" sequence="3" value="backup"/>
+                <element inactive_on_update="false" label="業務「SERVICE」" sequence="1" value="service"/>
+            </choice>
+        </element>
+        <element label="IPアドレス数" max_length="40" name="ipaddresssum" type="integer"/>
+    </element>
+</database>

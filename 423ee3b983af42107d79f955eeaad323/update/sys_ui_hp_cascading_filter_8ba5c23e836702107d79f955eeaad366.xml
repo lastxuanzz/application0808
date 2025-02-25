@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_cascading_filter">
+    <sys_ui_hp_cascading_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cascading_filter_reference_field>sys_id</cascading_filter_reference_field>
+        <conditions/>
+        <display_field>kankyou</display_field>
+        <look_up_name/>
+        <name>環境</name>
+        <parent display_value="システムコード">c10506fa836702107d79f955eeaad33c</parent>
+        <publisher_reference/>
+        <sys_class_name>sys_ui_hp_cascading_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 02:55:07</sys_created_on>
+        <sys_id>8ba5c23e836702107d79f955eeaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>環境</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sys_ui_hp_cascading_filter_8ba5c23e836702107d79f955eeaad366</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 02:55:07</sys_updated_on>
+        <table>x_1443635_shinsei_kanri</table>
+    </sys_ui_hp_cascading_filter>
+    <sys_translated_text action="delete_multiple" query="documentkey=8ba5c23e836702107d79f955eeaad366"/>
+</record_update>

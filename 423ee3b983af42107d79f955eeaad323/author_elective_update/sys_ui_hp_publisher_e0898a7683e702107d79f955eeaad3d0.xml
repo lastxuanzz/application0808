@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher">
+    <sys_ui_hp_publisher action="DELETE">
+        <allow_database_view_filter>false</allow_database_view_filter>
+        <allow_extended_table>false</allow_extended_table>
+        <boolean_field/>
+        <boolean_table/>
+        <date_filter/>
+        <default_boolean_field/>
+        <default_choice/>
+        <default_date_filter/>
+        <default_reference_field_value/>
+        <description/>
+        <exclusion_choice_list/>
+        <look_up_name/>
+        <name>choicelisttest</name>
+        <no_bulk_migration>false</no_bulk_migration>
+        <reference_conditions/>
+        <reference_table>x_1443635_shinsei_kanri</reference_table>
+        <remove_all_option>false</remove_all_option>
+        <source_field>kankyou</source_field>
+        <source_table>x_1443635_shinsei_kanri</source_table>
+        <sys_class_name>sys_ui_hp_publisher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 03:15:13</sys_created_on>
+        <sys_id>e0898a7683e702107d79f955eeaad3d0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>choicelisttest</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sys_ui_hp_publisher_e0898a7683e702107d79f955eeaad3d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 05:53:27</sys_updated_on>
+        <type>1</type>
+        <ui_control_type>4</ui_control_type>
+        <use_starts_with_on_search_keyword>false</use_starts_with_on_search_keyword>
+    </sys_ui_hp_publisher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</application>
+        <file_path/>
+        <instance_id>afd2325e1b4d4694c82acb7b234bcb79</instance_id>
+        <instance_name>dev248417</instance_name>
+        <name>sys_ui_hp_publisher_e0898a7683e702107d79f955eeaad3d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_publisher"><sys_ui_hp_publisher action="INSERT_OR_UPDATE"><allow_database_view_filter>false</allow_database_view_filter><allow_extended_table>false</allow_extended_table><boolean_field/><boolean_table/><date_filter/><default_boolean_field/><default_choice/><default_date_filter/><default_reference_field_value/><description/><exclusion_choice_list/><look_up_name/><name>choicelisttest</name><no_bulk_migration>false</no_bulk_migration><reference_conditions/><reference_table>x_1443635_shinsei_kanri</reference_table><remove_all_option>false</remove_all_option><source_field>kankyou</source_field><source_table>x_1443635_shinsei_kanri</source_table><sys_class_name>sys_ui_hp_publisher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-26 03:15:13</sys_created_on><sys_id>e0898a7683e702107d79f955eeaad3d0</sys_id><sys_mod_count>3</sys_mod_count><sys_name>choicelisttest</sys_name><sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package><sys_policy/><sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope><sys_update_name>sys_ui_hp_publisher_e0898a7683e702107d79f955eeaad3d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-26 05:53:27</sys_updated_on><type>1</type><ui_control_type>4</ui_control_type><use_starts_with_on_search_keyword>false</use_starts_with_on_search_keyword></sys_ui_hp_publisher></record_update>]]></payload>
+        <payload_hash>-1475677295</payload_hash>
+        <record_name>choicelisttest</record_name>
+        <reverted_from/>
+        <source>0e3ee3b983af42107d79f955eeaad326</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 05:53:27</sys_created_on>
+        <sys_id>b09e62b683a742107d79f955eeaad36f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190ed99f3420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 05:53:27</sys_updated_on>
+        <type>Interactive Filter</type>
+        <update_guid>789e62b6e7a74210f75de6c04fd05a6e</update_guid>
+        <update_guid_history>789e62b6e7a74210f75de6c04fd05a6e:-1475677295,4bacae3aa467421096d10e6388e117f2:226251006,702c2e7e4c2742104140b840f2d7ba28:914404375,725acab602e70210876746ded5aae920:226251006</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-26 05:58:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_hp_publisher">sys_ui_hp_publisher</sys_db_object>
+        <sys_id>0796d6328ed04f4e805fc8e2e55dbe84</sys_id>
+        <sys_metadata>e0898a7683e702107d79f955eeaad3d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>choicelisttest</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_scope_delete display_value="">252e05228bb847f29df206ac9052cb49</sys_scope_delete>
+        <sys_update_name>sys_ui_hp_publisher_e0898a7683e702107d79f955eeaad3d0</sys_update_name>
+        <sys_update_version display_value="sys_ui_hp_publisher_e0898a7683e702107d79f955eeaad3d0">b09e62b683a742107d79f955eeaad36f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-26 05:58:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

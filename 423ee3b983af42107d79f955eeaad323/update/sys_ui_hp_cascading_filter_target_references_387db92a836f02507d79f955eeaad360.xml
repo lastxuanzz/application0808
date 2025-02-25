@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_cascading_filter_target_references">
+    <sys_ui_hp_cascading_filter_target_references action="INSERT_OR_UPDATE">
+        <cascading_filter display_value="テスト 環境">a0fbbdea832f02507d79f955eeaad32c</cascading_filter>
+        <filter_field>kankyou</filter_field>
+        <sys_class_name>sys_ui_hp_cascading_filter_target_references</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 07:41:01</sys_created_on>
+        <sys_id>387db92a836f02507d79f955eeaad360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>kankyou</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sys_ui_hp_cascading_filter_target_references_387db92a836f02507d79f955eeaad360</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 07:41:01</sys_updated_on>
+        <target_table>x_1443635_shinsei_master</target_table>
+    </sys_ui_hp_cascading_filter_target_references>
+</record_update>

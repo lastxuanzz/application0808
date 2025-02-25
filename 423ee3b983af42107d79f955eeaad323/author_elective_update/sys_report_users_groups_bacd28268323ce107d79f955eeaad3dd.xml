@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">b2cd28268323ce107d79f955eeaad3dd</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 01:52:19</sys_created_on>
+        <sys_id>bacd28268323ce107d79f955eeaad3dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b2cd28268323ce107d79f955eeaad3dd</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sys_report_users_groups_bacd28268323ce107d79f955eeaad3dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 01:52:19</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</application>
+        <file_path/>
+        <instance_id>afd2325e1b4d4694c82acb7b234bcb79</instance_id>
+        <instance_name>dev248417</instance_name>
+        <name>sys_report_users_groups_bacd28268323ce107d79f955eeaad3dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">b2cd28268323ce107d79f955eeaad3dd</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-25 01:52:19</sys_created_on><sys_id>bacd28268323ce107d79f955eeaad3dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>b2cd28268323ce107d79f955eeaad3dd</sys_name><sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package><sys_policy/><sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope><sys_update_name>sys_report_users_groups_bacd28268323ce107d79f955eeaad3dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-25 01:52:19</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>1621734395</payload_hash>
+        <record_name>b2cd28268323ce107d79f955eeaad3dd</record_name>
+        <reverted_from/>
+        <source>0e3ee3b983af42107d79f955eeaad326</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 01:52:20</sys_created_on>
+        <sys_id>facd28268323ce107d79f955eeaad3e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e796d45f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 01:52:20</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>fecd2826e923ce10c593e0271ff85cdf</update_guid>
+        <update_guid_history>fecd2826e923ce10c593e0271ff85cdf:1621734395</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-25 01:55:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>15fba72f28124b828af374d21bb83759</sys_id>
+        <sys_metadata>bacd28268323ce107d79f955eeaad3dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b2cd28268323ce107d79f955eeaad3dd</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_scope_delete display_value="">252e05228bb847f29df206ac9052cb49</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_bacd28268323ce107d79f955eeaad3dd</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_bacd28268323ce107d79f955eeaad3dd">facd28268323ce107d79f955eeaad3e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-25 01:55:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

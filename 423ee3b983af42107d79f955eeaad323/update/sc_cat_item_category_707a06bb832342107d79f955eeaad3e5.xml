@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="test">ea5a467b832342107d79f955eeaad3fe</sc_cat_item>
+        <sc_category display_value="Network">faa7ef06836bc6107d79f955eeaad340</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-29 05:49:33</sys_created_on>
+        <sys_id>707a06bb832342107d79f955eeaad3e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network.test</sys_name>
+        <sys_package display_value="サービスカタログ申請画面イメージ" source="x_1443635_shinsei">423ee3b983af42107d79f955eeaad323</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="サービスカタログ申請画面イメージ">423ee3b983af42107d79f955eeaad323</sys_scope>
+        <sys_update_name>sc_cat_item_category_707a06bb832342107d79f955eeaad3e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-29 05:49:33</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
